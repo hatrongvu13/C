@@ -28,8 +28,8 @@ public:
 
 #endif //OOP_VEHICLE_H
 
-#ifndef APPOOP_CAR_H
-#define APPOOP_CAR_H
+#ifndef OOP_CAR_H
+#define OOP_CAR_H
 
 
 class Car : public Vehicle {
@@ -45,10 +45,10 @@ public:
 };
 
 
-#endif //APPOOP_CAR_H
+#endif //OOP_CAR_H
 
-#ifndef APPOOP_TRUCK_H
-#define APPOOP_TRUCK_H
+#ifndef OOP_TRUCK_H
+#define OOP_TRUCK_H
 
 
 class Truck : public Vehicle {
@@ -64,4 +64,4 @@ public:
 };
 
 
-#endif //APPOOP_TRUCK_H
+#endif //OOP_TRUCK_H
