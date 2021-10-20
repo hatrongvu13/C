@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/jigsaw_puzzle.dir/main.cpp.o -o jigsaw_puzzle 
